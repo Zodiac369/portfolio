@@ -8,7 +8,12 @@ Avec 2 ans d'expérience pratique, j'ai perfectionné mes compétences dans les 
 Je maîtrise également PHP, que j'utilise avec le framework Symfony, ainsi que MySQL. 
 Mon objectif est de tirer parti de mon savoir afin de créer des solutions innovantes qui stimulent la croissance d'une entreprise future avec qui je collaborerai et offrant une expérience utilisateur exceptionnelle.`;
 
-export const ABOUT_TEXT = `Mon dévouement et ma polyvalence font de moi un développeur full stack passionné par la création d'applications web efficaces et conviviales. J'ai acquis 2 ans d'expérience dont  1 an en formation, et 6 mois en tant que stagiaire professionnel, en travaillant sur diverses technologies telles que React, Next.js, Angular, Symfony, Node.js, MySQL et MongoDB. Mon parcours dans le développement web a commencé par une profonde curiosité et mon cursus scolaire et cela a évolué vers une profesionnalisation où je m'efforce continuellement d'apprendre et de m'adapter à de nouveaux défis. Je m'épanouis dans des environnements collaboratifs et j'aime résoudre des problèmes pour fournir des solutions de haute qualité. En dehors du code,j'aime rester actif, explorer de nouvelles technologies et travailler sur de nouveaux projets. J'apprécie également les activités telles que voyager, découvrir de nouveaux horizons et pratiquer un sport.`;
+export const ABOUT_TEXT = `Mon dévouement et ma polyvalence font de moi un développeur full stack passionné par la création d'applications web efficaces et conviviales. 
+J'ai acquis 2 ans d'expérience dont  1 an en formation, et 6 mois en tant que stagiaire professionnel, en travaillant sur diverses technologies telles que React, Next.js, Angular, Symfony, Node.js, MySQL et MongoDB. 
+Mon parcours dans le développement web a commencé par une profonde curiosité et mon cursus scolaire et cela a évolué vers une profesionnalisation où je m'efforce continuellement d'apprendre et de m'adapter à de nouveaux défis. 
+Je m'épanouis dans des environnements collaboratifs et j'aime résoudre des problèmes pour fournir des solutions de haute qualité. 
+En dehors du code, j'aime rester actif, explorer de nouvelles technologies et travailler sur de nouveaux projets. 
+J'apprécie également les activités telles que voyager, découvrir de nouveaux horizons et pratiquer un sport.`;
 
 export const EXPERIENCES = [
   {

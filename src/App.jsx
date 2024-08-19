@@ -1,3 +1,4 @@
+import About from "./components/About";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 
@@ -11,6 +12,7 @@ const App = () => {
       <div className="relative z-10 container mx-auto px-8 min-h-screen">
         <Navbar />
         <Hero />
+        <About/>
       </div>
     </div>
   );
