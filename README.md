@@ -14,4 +14,10 @@
 
 - Composant About.jsx
 
-![a-propos-navigateur](/assets/a-propos-navigateur_uz542zgrc.png)
+![a-propos-navigateur](/assets/a-propos-navigateur.png)
+
+## Technologies | Icones
+
+- Composant Technologies.jsx
+
+![technologies-navigateur](/assets/technologies-navigateur_udjnurygx.png)
