@@ -13,7 +13,7 @@ export const EXPERIENCES = [
     role: "Alternant Concepteur Développeur d'Applications",
     company: "École 2I Academy | À la recherche d'une entreprise",
     description: `Développement d'applications web modernes, Intégration de bases de données, Collaboration en équipe.`,
-    technologies: ["Java", "Spring", "PHP", "Javascript", "C#", "ASP .NET", "Angular", "Symfony"],
+    technologies: ["Java", "Spring", "PHP", "Javascript", "C#", "ASP .NET", "Angular", "React", "Symfony"],
   },
   {
     year: "2023 - 2024",
@@ -71,7 +71,7 @@ export const PROJECTS = [
     image: project4,
     description:
       "Une plateforme conçue pour la création et la publication d'articles de blog, offrant des fonctionnalités telles que l'édition de texte enrichie, les commentaires et les profils des utilisateurs.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["HTML", "CSS", "React", "Node.js", "Express", "MongoDB"],
   },
 ];
 
