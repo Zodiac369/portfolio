@@ -1,10 +1,9 @@
 import logo from "../assets/logo-ea.png";
 import { FaLinkedin, FaGithub, FaInstagram, FaFacebook } from 'react-icons/fa';
 
-
 const Navbar = () => {
   return (
-    <nav  className="mb-20 flex items-center justify-between py-6">
+    <nav  className="mb-12 flex items-center justify-between py-2">
       <div className="flex flex-shrink-0 items-center">
         <img className="mx-2 w-28" src={logo} alt="logo" />
       </div>
