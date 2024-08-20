@@ -71,8 +71,8 @@ export const PROJECTS = [
     title: "Portfolio",
     image: project3,
     description:
-      ".", 
-    technologies: ["HTML", "CSS", "React", "Vite", "Tailwind"],
+      "Un site Web Personnel présentant mes projets, compétences, expériences, parcours et mes coordonnées de contact.", 
+    technologies: ["CSS", "React", "Vite", "Tailwind"],
   },
   {
     title: "Plateforme de Blogue | En Cours",

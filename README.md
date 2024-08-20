@@ -27,3 +27,9 @@
 - Composant Experiences.jsx
 
 ![xp-formations-navigateur](/assets/xp-formations-navigateur_5uush0ik7.png)
+
+## Projets Personnels
+
+- Composant Projects.jsx
+
+![projets-navigateur](/assets/projets-navigateur_bjvq0wf21.png)

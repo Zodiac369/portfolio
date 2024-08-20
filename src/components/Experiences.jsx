@@ -21,7 +21,7 @@ const ExperienceList = () => {
             {experience.technologies && experience.technologies.length > 0 && (
               <div className="flex flex-wrap gap-2 mt-2">
                 {experience.technologies.map((tech, techIndex) => (
-                  <span key={techIndex} className="px-2 py-1 bg-neutral-800 text-purple-800 rounded-md font-medium">
+                  <span key={techIndex} className="px-2 py-1 bg-neutral-800 text-purple-600 rounded-md font-medium">
                     {tech}
                   </span>
                 ))}
