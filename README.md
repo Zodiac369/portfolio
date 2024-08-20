@@ -33,3 +33,19 @@
 - Composant Projects.jsx
 
 ![projets-navigateur](/assets/projets-navigateur_bjvq0wf21.png)
+
+## Contact
+
+- Composant Contact.jsx
+
+![contact-navigateur](/assets/contact-navigateur_duzjbh2n8.png)
+
+## Ajout du Package Framer-Motion
+
+* Animation Fluide Du Portfolio
+* Aspect Moderne
+* Expérience Utilisateur Agréable
+<br />
+<div align="center">
+  <img src="/assets/logo-motion_e77fhjnde.png" alt="logo-motion" />
+</div>
