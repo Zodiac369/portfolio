@@ -15,7 +15,7 @@ const About = () => {
   return (
     <div className="border-bottom border-neutral-900 pb-4">
       <h2 className="my-10 text-center text-4xl">
-        Qui suis- <span className="text-neutral-500">je ?</span>
+        Qui suis-<span className="text-neutral-500">je ?</span>
       </h2>
       <div className="flex flex-wrap">
         <div className="w-full lg:w-1/2">

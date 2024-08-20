@@ -19,7 +19,7 @@ export const EXPERIENCES = [
   {
     year: "2024 - Présent",
     role: "Alternant Concepteur Développeur d'Applications",
-    company: "École 2I Academy | À la recherche d'une entreprise",
+    company: "Recherche Une Entreprise",
     description: `Développement d'applications web modernes, Intégration de bases de données, Collaboration en équipe.`,
     technologies: ["Java", "Spring", "PHP", "Javascript", "C#", "ASP .NET", "Angular", "React", "Symfony"],
   },

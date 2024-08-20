@@ -21,3 +21,9 @@
 - Composant Technologies.jsx
 
 ![technologies-navigateur](/assets/technologies-navigateur_udjnurygx.png)
+
+## Expériences | Formations
+
+- Composant Experiences.jsx
+
+![xp-formations-navigateur](/assets/xp-formations-navigateur_5uush0ik7.png)
